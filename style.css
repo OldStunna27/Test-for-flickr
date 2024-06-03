@@ -1,0 +1,101 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.border{
+    border: 2px solid black;
+    padding: 20px;
+    background-color: black;
+    
+}
+
+.part{
+    display: flex;
+    
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+    margin-top: -30px;
+    gap: 30px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
+}
+li button{
+    background-color: white;
+    width: 100px;
+    padding: 3px;
+    border: none;
+    border-radius: 5px;
+}
+li button a{
+    color: black;
+    font-family: sans-serif;
+}
+
+input{
+    width: 900px;
+    margin-left: 80px;
+}
+
+.caro h1{
+    margin-top: -1200px;
+    font-size: 60px;
+}
+.caro p{
+    font-size: 28px;
+    margin-top: 30px;
+}
+
+.caro button{
+    width: 200px;
+    padding: 15px;
+    
+}
+.caro a{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+.caro1 h1{
+    margin-top: -700px;
+    font-size: 60px;
+}
+.caro1 p{
+    font-size: 28px;
+    margin-top: 30px;
+}
+.caro1 button{
+    width: 200px;
+    padding: 15px;
+}
+.caro1 a{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+.caro2 h1{
+    margin-top: -500px;
+    font-size: 60px;
+}
+
+.caro2 p{
+    font-size: 28px;
+    margin-top: 30px;
+}
+.caro2 button{
+    width: 200px;
+    padding: 15px;
+}
+.caro2 a{
+    color: black;
+    font-size: 25px;
+    text-decoration: none;
+}
